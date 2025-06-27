@@ -100,61 +100,32 @@ Passionate full-stack web developer and Data Science enthusiast with a journey r
 
 ### Social
 
-<a href="https://www.github.com/shahvandit8" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
+<a href="https://github.com/ADi10111" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" />
+  </picture>
 </a> &nbsp;
-<a href="https://www.x.com/shahvandit8" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</picture>
+<a href="https://www.linkedin.com/in/adityaarya-developer/" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+  </picture>
 </a> &nbsp;
-<a href="https://www.linkedin.com/in/shah-vandit" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/shahvandit8" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
-<a href="https://www.medium.com/@shahvandit8" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/medium-dark.svg" alt="medium" />
-</picture>
-</a> &nbsp;
-<a class="margin-right: 10px" href="https://www.youtube.com/@VanditShah" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="youtube" />
-</picture>
-</a> &nbsp;
-<a href="https://www.discord.com/users/vanditshah0451" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
-</picture>
+<a href="https://www.instagram.com/adinaagar_" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" />
+  </picture>
 </a> &nbsp;
 
 ### Badges
 #### My GitHub Stats
 
-<a
-href="http://www.github.com/shahvandit8"><img src="https://github-readme-stats.vercel.app/api?username=shahvandit8&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=222a2e&hide_border=true&show_icons=true" alt="shahvandit8's GitHub stats" /></a> <br/>
-<br/>
-<a href="http://www.github.com/shahvandit8"><img
-src="https://streak-stats.demolab.com/?user=shahvandit8&stroke=ffffff&background=222a2e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
-<a href="http://www.github.com/shahvandit8"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahvandit8&bg_color=222a2e&color=ffffff&line=3382ed&point=ffffff&area_color=222a2e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-
-### Support
-
-<a href="https://www.buymeacoffee.com/xk9lzsuhij" style="margin-right:10px" target="_blank" rel="noreferrer">
-<picture>
-<img width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" />
-</picture>
-</a>
-<br/>
+<!-- GitHub Stats Card -->
+<a href="https://github.com/ADi10111">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADi10111&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=222a2e&hide_border=true&show_icons=true" alt="ADi10111's GitHub stats" />
+</a> <br/>
 <br/>
 
-<p style="margin-top: 15px">This Profile is created with <a href="https://profilex.dev/" target="_blank" rel="noreferrer">Profile-X </a> ❤️ </p>
+<!-- GitHub Contribution Activity Graph -->
+<a href="https://github.com/ADi10111">
+  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADi10111&bg_color=222a2e&color=ffffff&line=3382ed&point=ffffff&area_color=222a2e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="ADi10111's GitHub activity graph" />
+</a><br/>
