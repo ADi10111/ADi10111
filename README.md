@@ -9,69 +9,94 @@ Passionate full-stack web developer and Data Science enthusiast with a journey r
 - 💬 Ask me about MERN Stack
 - ⚡ Fun fact about me: I drink coffee ☕ like my app drinks API data — nonstop!
 
-<a href="https://www.github.com/shahvandit8" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shahvandit8?logo=github&style=for-the-badge&color=3382ed&labelColor=222a2e" /></a> &nbsp;
-<a href="https://www.x.com/VanditHShah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/follow-%40VanditHShah-3382ed?logo=x&style=for-the-badge&labelColor=222a2e" /></a> &nbsp;
 ### Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-</picture></a> &nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
-</picture></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
-</picture></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" />
-</picture></a> &nbsp;
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" />
-</picture></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
-</picture></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
-</picture></a> &nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" />
-</picture></a> &nbsp;
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
-</picture></a> &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/express-colored-dark.svg" alt="Express" />
-</picture></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
-</picture></a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
-</picture></a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
-</picture></a> &nbsp;
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" />
-</picture></a> &nbsp;
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" />
-</picture></a> &nbsp;
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/solana-colored.svg" alt="Solana" />
-</picture></a> &nbsp;
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
-</picture></a> &nbsp;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" />
-</picture></a> &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" />
-</picture></a> &nbsp;
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  </picture>
+</a> &nbsp;
+
+<!-- HTML5 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+  </picture>
+</a> &nbsp;
+
+<!-- Next.js -->
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  </picture>
+</a> &nbsp;
+
+<!-- React -->
+<a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+  </picture>
+</a> &nbsp;
+
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" />
+  </picture>
+</a> &nbsp;
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+  </picture>
+</a> &nbsp;
+
+<!-- Node.js -->
+<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  </picture>
+</a> &nbsp;
+
+<!-- Express.js -->
+<a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" />
+  </picture>
+</a> &nbsp;
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+  </picture>
+</a> &nbsp;
+
+<!-- SQL -->
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <picture>
+    <img height="36" width="36" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" />
+  </picture>
+</a> &nbsp;
+
+<a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
+<picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+</picture>
+</a> &nbsp;
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
+<picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+</picture>
+</a> &nbsp;
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+<picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+</picture>
+</a> &nbsp;
+
 
 ### Social
 
